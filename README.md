@@ -9,7 +9,7 @@ the song, so summing this all up again doesn't return your total playtime.
 ## How to run:
 
 ```bash
-$ ./run.sh path/to/vimusic_YYYYMMDD.db
+$ ./artist-freqtable/run.sh path/to/vimusic_YYYYMMDD.db
 ```
 
 ## Requirements
