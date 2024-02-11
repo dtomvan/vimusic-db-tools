@@ -1,4 +1,4 @@
-# vimusic-db-to-freqtable
+# vimusic-db-tools
 
 This is just an experiment to find out what can be done with just the
 [ViMusic](https://github.com/25huizengek1/ViMusic) database file. It outputs
