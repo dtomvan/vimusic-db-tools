@@ -20,7 +20,6 @@ in the future I'll do a tagged release, but until then please **DO NOT** use
 this in your own project.
 
 ## Requirements
-- awk
 - bash
 - jq
 - sort
