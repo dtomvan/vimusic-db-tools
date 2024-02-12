@@ -1,7 +1,7 @@
 h=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
 yell () {
-    printf "$0 Critical error: %s\n" $@ >&2
+    printf "$0: Critical error: %s\n" "$@" >&2
 }
 
 die() {
