@@ -19,3 +19,14 @@ $ ./artist-freqtable/run.sh path/to/vimusic_YYYYMMDD.db
 - sort
 - sqlite3
 - tee
+
+## Modules
+
+### `artist-freqtable`
+Outputs a JSON file with all artists listed along with their ID and total
+playtime. If a song has multiple artists all artists get credited each the total
+playtime of the song, so summing this all up again doesn't return your total
+playtime.
+
+### `song-add-metadata`
+Outputs a JSON file with all known metadata about a song together in one file.
